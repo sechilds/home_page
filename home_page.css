@@ -26,4 +26,18 @@ body, html {
     border-spacing: 3px;
     padding: 3px;
 }
+
+.bookmark_two_col {
+    display: inline-grid;
+    grid-template-columns: .5fr .5fr;
+    grid-gap: 3px;
+
+}
+
+a {
+    border-style: soild;
+    background-color: greenyellow;
+    border-width: 1px;
+    border-spacing: 3px;
+}
     
